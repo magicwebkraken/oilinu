@@ -13183,14 +13183,7 @@ function L1() {
                 r.jsxs("div", {
                   className: "inline-flex flex-col gap-4 mb-8",
                   children: [
-                    r.jsx("a", {
-                      href: gf,
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                      className:
-                        "flex items-center justify-center gap-2 py-3 sm:py-4 bg-gold text-black font-heading font-bold text-base sm:text-lg uppercase tracking-wider hover:bg-gold-light transition-all duration-300 animate-pulse-gold",
-                      children: "Launch OilScanner",
-                    }),
+                    
                     r.jsxs("div", {
                       className: "flex flex-col sm:flex-row gap-4",
                       children: [
