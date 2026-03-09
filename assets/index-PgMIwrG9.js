@@ -13228,7 +13228,7 @@ function L1() {
               children: r.jsx(Sf, {
                 src: "/hero_image.jpg",
                 alt: "Trump Oil Reserve",
-                badge: "Commander in Chief",
+                badge: "OIL INU",
                 square: !0,
                 className: "w-full max-w-lg lg:max-w-xl",
               }),
