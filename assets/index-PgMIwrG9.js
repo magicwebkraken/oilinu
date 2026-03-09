@@ -12766,7 +12766,7 @@ const q1 = [
         },
         {
           icon: "target",
-          title: "Meme Warfare",
+          title: "Meme OILINU",
           description:
             "Armed with the dankest memes on Ethereum. The OIL INU never sleeps.",
         },
