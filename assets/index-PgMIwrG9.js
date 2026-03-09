@@ -12833,9 +12833,9 @@ const q1 = [
   },
   Rd = "https://t.me/oilinudog",
   Bd = "https://x.com/oilinu_X",
-  Zn = "0xComingSoon",
+  Zn = "0xb15684dfbf597da1446ee7e0d3a2a8a4ea97ca1c",
   Vn = `https://trade.phantom.com/token/${Zn}`,
-  Tu = `https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon`,
+  Tu = `https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xb15684dfbf597da1446ee7e0d3a2a8a4ea97ca1c`,
   gf = "https://oilscann.info";
 function G1() {
   const [x, O] = xe.useState(!1);
@@ -13483,7 +13483,7 @@ function K1() {
                       className: "relative flex flex-col sm:flex-row gap-3",
                       children: [
                         r.jsxs("a", {
-                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xb15684dfbf597da1446ee7e0d3a2a8a4ea97ca1c",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
