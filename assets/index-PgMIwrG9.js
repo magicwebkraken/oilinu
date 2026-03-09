@@ -12833,9 +12833,9 @@ const q1 = [
   },
   Rd = "https://t.me/oilinudog",
   Bd = "https://x.com/oilinu_X",
-  Zn = "0xComingSoon",
+  Zn = "0xDE17d830eaF35c94d51f57A26D2b0cC32d1A4D4f",
   Vn = `https://trade.phantom.com/token/${Zn}`,
-  Tu = `https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon`,
+  Tu = `https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xDE17d830eaF35c94d51f57A26D2b0cC32d1A4D4f`,
   gf = "https://oilscann.info";
 function G1() {
   const [x, O] = xe.useState(!1);
