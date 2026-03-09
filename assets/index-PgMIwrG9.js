@@ -12768,13 +12768,13 @@ const q1 = [
           icon: "target",
           title: "Meme Warfare",
           description:
-            "Armed with the dankest memes on Ethereum. The $OILINU content machine never sleeps.",
+            "Armed with the dankest memes on Ethereum. The OIL INU never sleeps.",
         },
         {
           icon: "fuel",
           title: "Fueled By Community",
           description:
-            "The $OILINU army is an unstoppable force. Diamond-hand soldiers who never break rank.",
+            "The $OILINU is an unstoppable force. Diamond-hand soldiers who never break rank.",
         },
         {
           icon: "rocket",
@@ -12788,7 +12788,7 @@ const q1 = [
       label: "FIELD MANUAL",
       heading: "HOW TO BUY",
       description:
-        "Enlist in the $OILINU army in three simple steps. No prior combat experience required.",
+        "Enlist in the $OILINU in three simple steps. No prior combat experience required.",
       steps: [
         {
           step: "01",
@@ -12814,7 +12814,7 @@ const q1 = [
       label: "JOIN THE RANKS",
       heading: "ENLIST NOW",
       description:
-        "The $OILINU army is growing. Every soldier counts. Join our Telegram and Twitter to stay on the frontlines and never miss a tactical update.",
+        "The $OILINU is growing. Every soldier counts. Join our Telegram and Twitter to stay on the frontlines and never miss a tactical update.",
       telegram_label: "Telegram HQ",
       telegram_description:
         "Join the command center. Real-time intel, alpha, and camaraderie.",
