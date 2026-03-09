@@ -12836,7 +12836,7 @@ const q1 = [
   Zn = "0xComingSoon",
   Vn = `https://trade.phantom.com/token/${Zn}`,
   Tu = `https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon`,
-  gf = "https://oilscanner.io";
+  gf = "https://oilscann.info";
 function G1() {
   const [x, O] = xe.useState(!1);
   return r.jsxs("nav", {
