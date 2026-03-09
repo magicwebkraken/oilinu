@@ -12886,14 +12886,7 @@ function G1() {
                     "ml-2 px-5 py-2 border border-gold text-gold font-heading font-bold text-sm uppercase tracking-wider hover:bg-gold/10 transition-colors duration-300",
                   children: $.nav.cta,
                 }),
-                r.jsx("a", {
-                  href: gf,
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  className:
-                    "px-5 py-2 bg-gold text-black font-heading font-bold text-sm uppercase tracking-wider hover:bg-gold-light transition-colors duration-300",
-                  children: "OilScanner",
-                }),
+                
               ],
             }),
             r.jsx("button", {
@@ -12932,14 +12925,7 @@ function G1() {
                   "block mt-3 px-5 py-2 border border-gold text-gold font-heading font-bold text-sm uppercase tracking-wider text-center hover:bg-gold/10 transition-colors",
                 children: $.nav.cta,
               }),
-              r.jsx("a", {
-                href: gf,
-                target: "_blank",
-                rel: "noopener noreferrer",
-                className:
-                  "block mt-3 px-5 py-2 bg-gold text-black font-heading font-bold text-sm uppercase tracking-wider text-center hover:bg-gold-light transition-colors",
-                children: "OilScanner",
-              }),
+              
             ],
           }),
         }),
