@@ -12814,7 +12814,7 @@ const q1 = [
       label: "JOIN THE RANKS",
       heading: "ENLIST NOW",
       description:
-        "The $OILINU is growing. Every soldier counts. Join our Telegram and Twitter to stay on the frontlines and never miss a tactical update.",
+        "The $OILINU is growing. Join our Telegram and Twitter to stay on the frontlines and never miss a tactical update.",
       telegram_label: "Telegram HQ",
       telegram_description:
         "Join the command center. Real-time intel, alpha, and camaraderie.",
