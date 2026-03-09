@@ -12811,7 +12811,7 @@ const q1 = [
       ],
     },
     community: {
-      label: "JOIN THE RANKS",
+      label: "JOIN THE COMMUNITY",
       heading: "ENLIST NOW",
       description:
         "The $OILINU is growing. Join our Telegram and Twitter to stay on the frontlines and never miss a tactical update.",
@@ -13286,7 +13286,7 @@ function Q1() {
               children: r.jsx(Sf, {
                 src: "/what_is_oil.jpg",
                 alt: "What is $OIL",
-                badge: "Top Secret Intel",
+                badge: "STRONG OIL INU",
                 square: !0,
                 className: "w-full max-w-lg",
               }),
