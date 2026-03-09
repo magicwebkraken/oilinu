@@ -12716,7 +12716,7 @@ const q1 = [
   Y1 = ze("x", q1),
   $ = {
     nav: {
-      brand: "$OIL",
+      brand: "$OILINU",
       links: ["About", "How to Buy", "Community"],
       cta: "Buy $OILINU",
     },
@@ -12731,7 +12731,7 @@ const q1 = [
     ticker: {
       items: [
         "DRILL BABY DRILL",
-        "$OIL",
+        "$OILINU",
         "PUMP THE RESERVES",
         "SECURE THE BAG",
         "NO RETREAT",
@@ -12824,7 +12824,7 @@ const q1 = [
     cta: {
       heading: "READY TO DRILL?",
       subheading:
-        "The reserves won't fill themselves. Secure your $OILINU before the next airstrike.",
+        "Secure your $OILINU before the next airstrike.",
     },
     footer: {
       copyright: "OIL INU. All barrels reserved.",
